@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Toimi</title>
+</head>
+<body>
+<header>
+	<div class="header_wrap">
+		<div class="head_left-column">
+			<div class="site_logo">
+				<a href="">
+					<img src="">
+				</a>
+			</div>
+		</div>
+		<div class="head_center-column">
+			<ul class="menu_top">
+				<li><a href="">Проекты</a></li>
+				<li><a href="">О компании</a></li>
+				<li><a href="">Контакты</a></li>
+			</ul>
+		</div>
+		<div class="head_right-column">
+			<div class="site_version">
+				<ul class="list_version">
+					<li><a href="">RU</a></li>
+					<li><a href="">EN</a></li>
+				</ul>
+			</div>
+			<div class="btn_top">
+				<a href="">Начать проект</a>
+			</div>
+		</div>
+	</div>
+</header>
+<content>
+	<div class="site_content_wrap">
+		<div class="site_path_wrap">
+			<ul class="site_path">
+				<li><a href="">Главная</a></li> - 
+				<li><a href="">Контакты</a></li>
+			</ul>
+		</div>
+		<h1>Мы рядом</h1>
+		<div class="form_wrap">
+			<div class="form_top_text">
+				Заполните форму ниже и мы свяжемся с вами. Не любите формы? Напишите нам на почту <a href="mailto:info@site.com">info@site.com</a>
+			</div>
+			<form class="form" action="/">
+				<div class="left_column_form">
+					<div class="item_form">
+						<input type="text" name="name" value="" placeholder="Ваше имя" >
+					</div>
+					<div class="item_form">
+						<input type="text" name="mail" value="" placeholder="Ваш E-Mail" >
+					</div>
+					<div class="item_form">
+						<input type="textarea" name="comment" value="" placeholder="Комментарий" >
+					</div>
+					<div class="item_form">
+						<input type="checkbox" name="personal_data" value="" >
+						<span>Согласен с <a href="">Политикой конфиденциальности</a></span>
+					</div>
+				</div>
+				<div class="right_column_form">
+					<div class="item_form">
+						<button>Отправить</button>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</content>
+<footer>
+	<div class="footer_wrap">
+		<div class="footer_inner_top">
+			<div class="left_column_footer">
+				<div class="logo_bot">
+					<a href="/">
+						<img src="">
+					</a>
+				</div>
+			</div>
+			<div class="right_column_footer">
+				<div class="block_list_menu">
+					<div class="menu_bot">
+						<div class="title_menu_bot">
+							Услуги
+						</div>
+						<ul class="menu2">
+							<li><a href="">Support and development</a></li>
+							<li><a href="">UI/UX and product design</a></li>
+							<li><a href="">Progressive Web Applications (PWA)</a></li>
+						</ul>
+					</div>
+					<div class="menu_bot">
+						<div class="title_menu_bot">
+							Компания
+						</div>
+						<ul class="menu3">
+							<li><a href="">О компании</a></li>
+							<li><a href="">Проекты</a></li>
+							<li><a href="">Контакты</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="contacts_bot">
+					<div class="title_contacts">
+						Контакты
+					</div>
+					<div class="contacts_bot_inner">
+						<div class="contacts_column_left">
+							<div class="but_download">
+								<a href="">Скачать презентацию</a>
+							</div>
+							<div class="phones_bot">
+								<div class="item">
+									<a href="tel:+74999999999">+7 (499) 999-99-99</a>
+								</div>
+							</div>
+							<div class="email_bot">
+								<div class="item">
+									<a href="mailto:info@site.com">info@site.com</a>
+								</div>
+							</div>
+						</div>
+						<div class="contacts_column_right">
+							<div class="social_block">
+								<div class="item">
+									<a href=""><img src=""></a>
+								</div>
+								<div class="item">
+									<a href=""><img src=""></a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer_inner_bot">
+			<div class="site_copy">
+				© Company 2022. All rights reserved.
+			</div>
+			<div class="site_politics">
+				<a href="">Политика конфиденциальночти</a>
+			</div>
+		</div>
+	</div> 
+</footer>
+</body>
+</html>
